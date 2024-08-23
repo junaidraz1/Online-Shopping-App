@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Favliy</string>
+    <string name="home_tagline">Favliy</string>
+    <string name="categories_lbl">Categories</string>
+    <string name="men_label">Men\'s Clothing</string>
+    <string name="women_lbl">Women\'s Clothing</string>
+    <string name="jewelery_lbl">Jewelery</string>
+    <string name="electronics_lbl">Electronics</string>
+    <string name="deals_lbl">Hot Deals</string>
+    <string name="no_con_lbl">No Internet Available</string>
+    <string name="con_lbl">No internet connection available</string>
+    <string name="sold_products_lbl">Products Sold: </string>
+    <string name="description_lbl">Description</string>
+    <string name="continue_lbl">Continue</string>
+    <string name="continue_shopping_lbl">Continue Shopping</string>
+    <string name="dollar_sign_lbl">$ %1$s</string>
+    <string name="on_board_msg_1">Classy \nfrom head \nto toe</string>
+    <string name="on_board_msg_2">Fly away \nwith your \nstyle</string>
+    <string name="on_board_msg_3">Clothes \nfor a big \nplanet</string>
+    <string name="quantity_lbl">Quantity:</string>
+    <string name="cart_lbl">My Cart</string>
+    <string name="timeout_msg">Uh-Oh something went wrong. Please try again later</string>
+</resources>

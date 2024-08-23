@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="pink_bg">#e02d54</color>
+    <color name="transparent_pink_bg">#A9E02D54</color>
+    <color name="light_purple_bg">#c582ba</color>
+    <color name="light_bg">#b0b3b4</color>
+    <color name="very_light_bg">#f1dcf1</color>
+    <color name="main_color">#F16023</color>
+    <color name="main_color_dark">#DF5A22</color>
+    <color name="main_color_light">#EE672F</color>
+    <color name="light_grey">#949494</color>
+    <color name="onBoardColor">#E2E2E2</color>
+</resources>
